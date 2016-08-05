@@ -6,7 +6,7 @@ For Antergos, this shellscript changes to the correct icons some preinstalled ap
 
 To **DOWNLOAD AND INSTALL** easily, run this command in a terminal:
 ```bash
-wget https://github.com/Pronink/numixicons-Fixer/releases/download/v1/iconFixer.sh; sudo chmod +x iconFixer.sh; sudo ./iconFixer.sh
+wget https://github.com/Pronink/numixicons-Fixer/releases/download/v2/iconFixer.sh; sudo chmod +x iconFixer.sh; sudo ./iconFixer.sh
 ```
 The script iconFixer.sh will be saved where you are when you ran the previous command.
 You can run the script whenever you want to refresh new program icons.
